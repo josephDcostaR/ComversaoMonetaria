@@ -1,8 +1,6 @@
 import java.util.Map;
 
 public class ExchangesRates {
-
-
     private String result;
     private String base_code;
     private Map<String, Double> conversion_rates;
