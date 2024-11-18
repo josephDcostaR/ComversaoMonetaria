@@ -1,3 +1,5 @@
+package br.com.alura.conversorMonetario.Modelagem;
+
 import java.util.Set;
 
 public class Coins{

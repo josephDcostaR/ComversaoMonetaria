@@ -1,3 +1,7 @@
+import br.com.alura.conversorMonetario.Conexao.ApiConection;
+import br.com.alura.conversorMonetario.Conexao.ExchangesRates;
+import br.com.alura.conversorMonetario.Modelagem.Coins;
+
 import java.util.Scanner;
 
 public class Main {

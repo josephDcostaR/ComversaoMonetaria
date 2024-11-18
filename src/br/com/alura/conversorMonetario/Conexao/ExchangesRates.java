@@ -1,3 +1,5 @@
+package br.com.alura.conversorMonetario.Conexao;
+
 import java.util.Map;
 
 public class ExchangesRates {

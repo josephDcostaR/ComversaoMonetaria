@@ -1,3 +1,5 @@
+package br.com.alura.conversorMonetario.Conexao;
+
 import com.google.gson.Gson;
 
 import java.io.IOException;
