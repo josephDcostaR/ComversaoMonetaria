@@ -77,7 +77,6 @@ Certifique-se de configurar a chave no arquivo ApiConection.java:
 ````commandline
 private static final String API_KEY = "SUA_CHAVE_AQUI";
 private static final String BASE_URL = "https://v6.exchangerate-api.com/v6/" + API_KEY + "/latest/";
-
 ````
 
 ### 📝 Licença
